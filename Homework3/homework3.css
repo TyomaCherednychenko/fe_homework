@@ -8,19 +8,19 @@ body {
   font-size: 13.33px;
 }
 
-.canvas {
-  background-color: #f9f9f9;
-  width: 154px;
-  height: 948px;
+.carcass {
+  position: absolute;
+  top: 0px;
+  left: 154px;
 }
 
 .main {
+  position: absolute;
+  left: 0px;
+  top: 0px;
   width: 1058px;
   height: 948px;
-}
-
-.canvas, .main {
-  float: left;
+  margin: auto;
 }
 
 .main img {
