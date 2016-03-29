@@ -4,8 +4,6 @@
 }
 
 body {
-  width: 1366px;
-  height: 950px;
   background-color: #f9f9f9;
   font-family: "Open sans";
   font-size: 13.33px;
@@ -13,8 +11,12 @@ body {
 
 .carcass {
   position: absolute;
-  top: 0px;
-  left: 154px;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 1058px;
 }
 
 .main {
