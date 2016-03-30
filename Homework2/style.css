@@ -1,6 +1,11 @@
-body{
-    width: 2480px;
-    height: 3508px;
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+    width: 1440px;
+    height: 798px;
 }
 
 #name {
